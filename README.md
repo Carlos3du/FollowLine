@@ -1,4 +1,4 @@
-# <h2> <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="60" /> Follow Line Robot </h2>
+# <h2> <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="50" /> Follow Line Robot </h2>
 
 8 sensors array, follow line robot project
 
