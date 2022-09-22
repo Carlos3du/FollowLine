@@ -3,15 +3,17 @@
 8 sensors array, follow line robot project
 
 ## Equipe:
-- Carlos Eduardo Cavalcanti
+- Carlos Cavalcanti
 - Gabriel Chaves
 - Mariane Fontes
+- Andrew Kennedy
 - Kaique Gabriel
 - Luíza Omêna
-- Nicolas
-- Ester 
+- Nicolas Miranda
+- Ester Carvalho
 - João Pedro Araújo
 - Bruna Carvalho
+- Guilherme Lopes
 
 ## Problemática:
 - Como melhorar o desempenho da velocidade do robô seguidor de linha?
@@ -32,6 +34,11 @@
 ## Hard Skills:
 - Conhecimento em arduíno e linguagem C++
 - Habilidade em fazer pesquisas constantemente
+
+## Estado da Arte:
+- Pesquisa de novos sensores para serem utilizados 
+- Percursos com mais obstáculos e novos modelos de competição 
+- Novos modelos de robôs
 
 ## Referências de Tecnologias e Projetos semelhantes existentes:
 - https://www.youtube.com/watch?v=wbrt2ClgZik
